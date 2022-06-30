@@ -1,0 +1,1 @@
+Exemplu de fisier ce este ignorat. Sunt scrise doar path-urile pdf-urilor.
